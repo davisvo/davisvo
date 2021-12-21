@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://practical-bartik-7841ef.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Davis Vo"
