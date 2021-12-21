@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: RESEARCH INTERESTS // Community Colleges | Educational Equity | Higher Education Policy | Behavioral Science | Data Science | Organizational Behavior |
+description: I am a PhD student in UCLA’s Higher Education & Organizational Change program with approximately 7 years of research and 4.5 years of education practitioner experience. I have worked within the non-profit sector, as well as the K-12, community college, and public/private university systems. My research interests include the community colleges, educational equity, higher education policy, behavioral sciences, data science, and organizational behavior.
 image_left: true
 images:
 - img/revoir.jpg

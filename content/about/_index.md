@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  PhD student in UCLA's Higher Education & Organizational Change program. Interested in community colleges, educational equity, higher education policy, behavioral science, data science, and organizational change. 
 show_header: true
 sidebar_left: true
 title: About
