@@ -1,4 +1,4 @@
-baseURL = "davisvo.rbind.io"
+baseURL = "https://davisvo.rbind.io"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Davis Vo"
