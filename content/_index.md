@@ -2,13 +2,13 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Education researcher interested in community colleges, educational equity, higher education policy, behavioral science interventions, data science, and organizational behavior.
+description: RESEARCH INTERESTS // Community Colleges | Educational Equity | Higher Education Policy | Behavioral Science | Data Science | Organizational Behavior |
 image_left: true
 images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Education Researcher. Let's learn together.
+subtitle: Let's learn & transform education together.
 text_align_left: false
 title: Davis Vo (he/him/his)
 type: home
