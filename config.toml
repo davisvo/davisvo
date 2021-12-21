@@ -1,4 +1,4 @@
-baseURL = "davisvo.netlify.app"
+baseURL = "https://davisvo.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Davis Vo"
