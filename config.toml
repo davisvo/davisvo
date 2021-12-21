@@ -30,8 +30,8 @@ enableEmoji = true
 [params]
   orgName = "Davis Vo"
   orgLocal = ""
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
+  description = "Education Researcher // Community Colleges | Education Equity | Higher Education Policy | Behavioral Sciences | Data Science | Organizational Change"
+  favicon = "/img/banhmi.png"
   logo = "/img/banhmi.png"
   mainSections = []
   navallcaps = true
