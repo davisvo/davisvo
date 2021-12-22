@@ -121,7 +121,6 @@ enableEmoji = true
     url = "/contact/"
     weight = 3
 
-    
   # Configure footer  
   [[menu.footer]]
     name = "License"
