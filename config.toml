@@ -102,7 +102,7 @@ enableEmoji = true
   category = "categories"
   series = "series"
   tag = "tags"
-
+  
 [menu]
   # Configure header 
   [[menu.header]]
@@ -115,6 +115,12 @@ enableEmoji = true
     title = "Blog"
     url = "/blog/"
     weight = 2
+  [[menu.header]]
+    name = "Contact"
+    title = "contact"
+    url = "/contact/"
+    weight = 3
+
     
   # Configure footer  
   [[menu.footer]]
